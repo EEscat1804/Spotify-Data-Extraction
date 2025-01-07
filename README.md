@@ -1,1 +1,1 @@
-Data project for a cs club where we had to extract data from 1000+ songs using the spotify API. Using the API we were able to get different data points and analyze each song beyond to just listening to it.
+Data project for a cs club where we had to extract data from 1000+ songs using the spotify API. Using the API we were able to get different data points and analyze each song beyond to just listening to it. It would eventually become an organized spreadsheet where we can see the stats for each song.
